@@ -3,7 +3,7 @@
 `Chronically Online (Coding | Design)` 
 
 Front-end web developer leveraging my background in education to build a more intuitive user
-experience on the web. I'm an engineer familiar with full stack yet focused on frontend.  
+experience on the web. I'm an engineer familiar with full stack yet focused on frontend.
 Known as an innovative problem solver passionate about developing apps, with a focus
 on mobile-first design and development. With each project, my aim is to best engage my
 audience for an impactful user experience. All my personal coding projects are built from the ground up, 
